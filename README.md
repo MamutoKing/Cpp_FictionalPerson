@@ -12,11 +12,11 @@ Create a simple C++ console application using Eclipse IDE that will display the 
 
     Start program
 
-    Create variable for first name
-    Create variable for last name
-    Create variable for street address
-    Create variable for city
-    Create variable for zip code
+    Create variable (string) for first name
+    Create variable (string) for last name
+    Create variable (string) for street address
+    Create variable (string) for city
+    Create variable (string) for zip code
 
     Assign fictional values to each variable
 
